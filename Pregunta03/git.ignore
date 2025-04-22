@@ -1,0 +1,15 @@
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.log
+*.obj
+*.exe
+*.pdb
+*.ipch
+*.tlog
+*.cache
+*.ilk
+*.idb
+Debug/
+Release/
