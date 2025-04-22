@@ -1,5 +1,5 @@
-# PC01 - Algoritmo y Estructura de Datos}
-## UPC 2025-01
+# PC01 - Algoritmo y Estructura de Datos
+**UPC 2025-01**
 
 ## Preguntas: 
 * Pregunta 1 (Giancarlo)
